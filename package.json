@@ -1,0 +1,23 @@
+{
+  "name": "jest-project-example",
+  "version": "1.0.0",
+  "description": "\"my first jest project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harpegnathos/jest-project-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harpegnathos/jest-project-example/issues"
+  },
+  "homepage": "https://github.com/Harpegnathos/jest-project-example#readme",
+  "devDependencies": {
+    "jest": "^27.0.0",
+    "supertest": "^6.2.4"
+  }
+}
